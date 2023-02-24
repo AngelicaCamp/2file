@@ -56,7 +56,7 @@ projeto dentro do Android Studio e clicando em RUN.
 
 Desenvolvido by 
 
-Calebe Augusto Santana de Oliveira
-Angélica da Silva Campos
-William Ricardo Munaretto
+- Calebe Augusto Santana de Oliveira
+- Angélica da Silva Campos
+- William Ricardo Munaretto
 
