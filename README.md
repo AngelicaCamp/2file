@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="2File" title="2File - Gerenciador de Documentos" src=".assets/Logo_Home.png" width="220px" />
+    <img alt="2File" title="2File - Gerenciador de Documentos" src="" width="220px" />
 </h1>
 
 <p align="center">
@@ -8,6 +8,10 @@
 </p>
 
 <br>
+
+<p align="center">
+  <img alt="rocketpay" src=".assets/Logo_Home.png" width="100%">
+</p>
 
 ## 🚀 Tecnologias
 
@@ -59,4 +63,7 @@ Desenvolvido by
 - Calebe Augusto Santana de Oliveira
 - Angélica da Silva Campos
 - William Ricardo Munaretto
+
+
+
 
