@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="2File" title="2File - Gerenciador de Documentos" width="220px" />
+    <title="2File - Gerenciador de Documentos" width="220px" />
 </h1>
 
 <p align="center">
