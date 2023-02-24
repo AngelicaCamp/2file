@@ -1,5 +1,5 @@
 <h1 align="center">
-    <title="2File - Gerenciador de Documentos" width="220px" />
+    2File - Gerenciador de Documentos
 </h1>
 
 <p align="center">
