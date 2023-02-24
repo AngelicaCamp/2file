@@ -5,7 +5,6 @@
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -14,19 +13,13 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Dart](https://dart.org/en/)
-- [Flutter](https://flutter.com/pt-br/)
-- [SQLite](https://www.sqlite.org/index.html)
+- [Dart]([https://dart.org/en/](https://dart.dev/))
+- [Flutter]([https://flutter.com/pt-br/](https://flutter.dev/?gclid=Cj0KCQiA3eGfBhCeARIsACpJNU_kgS-mO2JQc3BT1ZLYAsGh3uawy7nIYjIVOfaorCm87j1BwO9KPFUaAoCNEALw_wcB&gclsrc=aw.ds))
+- [SQLite](https://www.sqlite.org)
 
 ## 💻 Projeto
 
-O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de resíduos de forma eficiente.
 O 2File é um plicativo mobile que ajuda as pessoas a gerenciar seus documentos atráves do dispositivo celular. 
-
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [desse link](<https://www.figma.com/file/Byw4X5etg8VCmezueyhzkC/Ecoleta-(Starter)?node-id=136%3A546>). Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
 
 ## Como executar o projeto
@@ -61,7 +54,7 @@ projeto dentro do Android Studio e clicando em RUN.
 
 ---
 
-Feito com by 
+Desenvolvido by 
 
 Calebe Augusto Santana de Oliveira
 Angélica da Silva Campos
