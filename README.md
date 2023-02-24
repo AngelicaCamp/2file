@@ -13,8 +13,8 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Dart]([https://dart.org/en/](https://dart.dev/))
-- [Flutter]([https://flutter.com/pt-br/](https://flutter.dev/?gclid=Cj0KCQiA3eGfBhCeARIsACpJNU_kgS-mO2JQc3BT1ZLYAsGh3uawy7nIYjIVOfaorCm87j1BwO9KPFUaAoCNEALw_wcB&gclsrc=aw.ds))
+- [Dart](https://dart.dev/)
+- [Flutter](https://flutter.dev/?gclid=Cj0KCQiA3eGfBhCeARIsACpJNU_kgS-mO2JQc3BT1ZLYAsGh3uawy7nIYjIVOfaorCm87j1BwO9KPFUaAoCNEALw_wcB&gclsrc=aw.ds/)
 - [SQLite](https://www.sqlite.org)
 
 ## 💻 Projeto
